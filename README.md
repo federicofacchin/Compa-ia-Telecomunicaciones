@@ -1,4 +1,4 @@
-# Compa-ia-Telecomunicaciones
+# Compania-Telecomunicaciones
 
 
 TRABAJO FINAL DE BASES DE DATOS 2
